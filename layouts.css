@@ -1,0 +1,187 @@
+li.topLinks {
+	list-style: none;
+	display: inline;
+	padding-right: 30px;
+}
+ul.headLinks{
+	text-align: center;
+	font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-size: 100%;
+	border: 1px solid #626262;
+	border-radius: 5px;
+	text-transform: uppercase;
+	background-color: #093c58;
+	line-height: 40px;
+	font-size: 120%;
+}
+a.linkStyle:link{
+	text-decoration: none;
+	color: #3696f3;
+}
+a.linkStyle:visited{
+	text-decoration: none;
+	color: #3696f3;
+}
+a.linkStyle:hover{
+	text-decoration: underline;
+	color: #3696f3;
+}
+
+a.headLinkStyle:link{
+	text-decoration: none;
+	color: #3696f3;
+}
+a.headLinkStyle:visited{
+	text-decoration: none;
+	color: #3696f3;
+}
+a.headLinkStyle:hover{
+	text-decoration: none;
+	color: #3696f3;
+}
+a:link{
+	text-decoration: underline;
+	color: white
+}
+a:visited{
+	text-decoration: underline;
+	color: white
+}
+
+body {
+	font-family: sans-serif;
+	width: 1000px;
+	margin: auto;
+	background-color: #37464d;
+	font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	color: #3696f3;
+}
+
+div.container {
+	background-color: #093c58;
+	border: 1px solid #626262;
+	border-radius: 50px;
+	margin: auto;
+	text-align: center;
+	width: 1000px;
+	color: #3696F3;
+}
+
+div.uname {
+	background-color: #093c58;
+	border: 1px solid #626262;
+	border-radius: 50px;
+	margin: auto;
+	text-align: center;
+	width: 300px;
+	color: #3696F3;
+}
+
+
+header.pageHead{
+	border: 0px solid;
+	border-radius: 5px;
+}
+
+footer.pageFoot {
+	width: 998px;
+	text-align: center;
+	line-height: 80%;
+	font-size: 75%;
+	font-style: italic;
+	background-color: #30382D;
+	color: white;
+	border: 1px solid #C7C7C7;
+	border-radius: 5px;
+	position: relative;
+	bottom: 0;
+}
+
+h1.title{
+	font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-style: italic;
+	font-size: 500%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+fieldset {
+	width: auto;
+}
+
+.form {
+	background-color: #334A56;
+	border: 2px solid #6A594D;
+	border-radius: 3px;
+	border-style: ridge;
+	clear: left;
+	display: inline-block;
+	float: center;
+	margin: 10px;
+	padding: 10px;
+	text-align: left;
+	width: auto;
+}
+
+label.form1 {
+	width: 150px;
+	margin: auto;
+	text-align: left;
+	display:inline-block;
+}
+
+input.radio {
+	
+	display: inline-block;
+	text-align: left;
+
+	width: auto;
+	float: middle;
+}
+
+
+.submit{
+	background-color: #C7C7C7;
+	cursor: pointer;
+	float: right;
+	margin-right: 120px;
+}
+.register{
+	background-color: #C7C7C7;
+	cursor: pointer;
+	float: right;
+	margin-right: 107px;
+}
+
+
+
+input.reserve {
+	background-color: #C7C7C7;
+	cursor: pointer;
+	vertical-align: middle;
+}
+
+table.table1 {
+	background-color: #334A56;
+	border: 2px, solid;
+	border-radius: 3px;
+	border-style: ridge;
+	clear: left;
+	display: inline-block;
+	float: center;
+	margin-bottom: 50px;
+	padding: 0;
+	text-align: center;
+	width: auto;
+}
+.row > td {
+	margin: 10px;
+	border-right: 2px, solid;
+	padding-left: 10;
+	padding-right: 10;
+}
+
+ul {
+	list-style: none;
+}
